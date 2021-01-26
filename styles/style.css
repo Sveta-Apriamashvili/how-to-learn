@@ -11,6 +11,10 @@
   position: absolute;
 }
 
+/*------------------------------*/
+/*HEADER*/
+/*------------------------------*/
+
 .header {
   height: 100vh;
   min-height: 600px;
@@ -67,6 +71,12 @@
   right: 0px;
 }
 
+/*------------------------------*/
+/*SECTIONS*/
+/*------------------------------*/
+
+/*---DESCRIPTION---*/
+
 .description {
   margin:100px 0 0;
   display: flex;
@@ -109,6 +119,8 @@
   line-height: 34px;
   font-size: 24px;
 }
+
+/*---DIGITS---*/
 
 .digits {
   display: flex;
@@ -167,6 +179,7 @@
   margin-bottom: 0;
 }
 
+/*---FEYNMAN---*/
 
 .feynman {
   margin-top: 100px;
@@ -207,6 +220,8 @@
   right: 40px;
   top: 50%;
 }
+
+/*---KAUFMAN---*/
 
 .kaufman {
   background-color: #1f1f1f;
@@ -250,6 +265,10 @@
   height: 877px;
   right: -210px;
 }
+
+/*------------------------------*/
+/*FOOTER*/
+/*------------------------------*/
 
 .footer {
   min-height: 350px;
@@ -297,7 +316,6 @@
   font-weight: 700;
   margin: 0;
 }
-
 
 .footer__column-links {
   list-style: none;
