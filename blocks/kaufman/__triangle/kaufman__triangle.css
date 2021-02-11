@@ -7,4 +7,5 @@
     right: -210px;
     top: 0;
     background-size: cover;
+    animation: rotation 20s linear infinite;
   }
