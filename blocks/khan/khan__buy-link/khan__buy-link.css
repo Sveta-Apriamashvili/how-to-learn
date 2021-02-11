@@ -4,9 +4,9 @@
     font-weight: normal;
     color: #2f80ed;
     text-decoration: none;
-    position: absolute;
-    left: 668px;
-    width: max-content;
+    margin-left: 48px;
+position: relative;
+z-index: 2;
 }
 
 .khan__buy-link:hover {
